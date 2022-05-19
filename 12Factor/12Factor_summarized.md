@@ -1,4 +1,4 @@
-# The 12 Factors Resume:   
+# The 12 Factors Summarized:   
 
 I. Codebase: One codebase tracked in revision control, many deploys  
 
@@ -22,6 +22,12 @@ X. Dev/prod parity: Keep development, staging, and production as similar as poss
 
 XI. Logs: Treat logs as event streams  
 
-XII. Admin processes: Run admin/management tasks as one-off processes  
+XII. Admin processes: Run admin/management tasks as one-off processes   
 
-Its very boring to paste this here and only read without try to make an app. 
+
+Its very boring to paste this here and only read without try to make an app.  
+
+### References:  
+[The Twelve-Factor App](https://12factor.net/)  
+[Introduction video](https://www.youtube.com/watch?v=k14sK9yR3rs)
+

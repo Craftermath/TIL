@@ -1,6 +1,6 @@
 # TIL   
 
-> Today I Learned   
+*Today I Learned*   
 
 A collection of concise write-ups on small things I learn across a variety of 
 languages and technologies.   
@@ -18,7 +18,7 @@ _3 TILs and counting..._
 
 ### 12factor
 
-- [The 12 Factors Resume:](12Factor/12Factor_resume.md)
+- [The 12 Factors Summarized:](12Factor/12Factor_summarized.md)
 
 ### Github
 
