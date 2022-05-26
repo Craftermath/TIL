@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn across a variety of 
 languages and technologies.   
 
-_3 TILs and counting..._   
+_4 TILs and counting..._   
 
 ## Categories   
 
@@ -18,6 +18,7 @@ _3 TILs and counting..._
 
 ### 12factor
 
+- [Logging Like a Pro](12Factor/Logging_like_a_pro.md)
 - [The 12 Factors Summarized:](12Factor/12Factor_summarized.md)
 
 ### Github
