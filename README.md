@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn across a variety of 
 languages and technologies.   
 
-_4 TILs and counting..._   
+_5 TILs and counting..._   
 
 ## Categories   
 
@@ -28,6 +28,7 @@ _4 TILs and counting..._
 ### Python
 
 - [Special Method XOR](Python/special_method_xor.md)
+- [Stdout in Pytest](Python/stdout_in_pytest.md)
 
 ---  
 
