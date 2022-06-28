@@ -9,7 +9,7 @@ def test_yourfunction(capfd):
 ``` 
 
 And here is an image of a working test of a hacker rank exercise:   
-![gvim print](/stdout_pytest.png)    
+![gvim print](stdout_pytest.png)    
 Pay attention to the right side, lines 19, 21 and 22.
 
 ## References:   
